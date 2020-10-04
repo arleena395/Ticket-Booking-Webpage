@@ -1,0 +1,60 @@
+*{
+  margin:5px;
+  margin-left: 20px;
+}
+body{
+  background-color: grey;
+}
+h1{
+  text-align: center;
+  color: red;
+  margin-bottom: 20px;
+}
+#male-1,#female-1,#others-61{
+  margin-left: 2px;
+}
+#married,#unmarried{
+  margin-left: 2px;
+}
+
+#space{
+  margin-left: 45px;
+}
+.month,.year{
+  margin-left: -6px;
+}
+.day{
+  margin-left: 8px;
+}
+#header{
+  background-color: white;
+  margin-left: 40px;
+}
+.form-control {
+  margin-left: 1px;
+}
+.nation{
+  margin-left: 19px;
+}
+.streetlane {
+  margin-left: 79px;
+}
+.area{
+  margin-left: 60px;
+}
+.country,.pincode{
+  margin-left: 95px;
+}
+.state{
+  margin-left: 115px;
+}
+.city{
+  margin-left: 78px;
+}
+.btn{
+   margin-left: 500px;
+}
+h4{
+  margin-left: 38px;
+  background-color: white;
+}
